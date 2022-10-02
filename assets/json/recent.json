@@ -1,0 +1,27 @@
+[
+  {
+    "status": "The B-2T",
+    "text":"The rock show from Beatles",
+    "img": "img/pic-2.webp",
+    "time": "19 days ago"
+  },
+  {
+    "status": "Rolling Stage",
+    "text":"Event of the Stone from Chicago",
+    "img": "img/pic-3.jpg",
+    "time": "7 days ago"
+  },
+  {
+    "status": "AC/AD 2021",
+    "text":"A with C and D",
+    "img": "img/pic-4.jpg",
+    "time": "25 days ago"
+  },
+  {
+    "status": "VESTON 2022",
+    "text":"Asian with a VIETNAMES VESTON",
+    "img": "img/pic-1.jpg",
+    "time": "4 days ago"
+  }
+
+]
